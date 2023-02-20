@@ -1,0 +1,6 @@
+framework module Pods_PopularArticlesSwiftUI {
+  umbrella header "Pods-PopularArticlesSwiftUI-umbrella.h"
+
+  export *
+  module * { export * }
+}
